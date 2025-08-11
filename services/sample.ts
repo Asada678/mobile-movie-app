@@ -86,6 +86,244 @@ export const discoverMovieResponseSample = {
 			vote_average: 8.9,
 			vote_count: 21876,
 		},
+		{
+			adult: false,
+			backdrop_path: "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+			genre_ids: [12, 14, 28],
+			id: 120,
+			original_language: "en",
+			original_title: "The Lord of the Rings: The Fellowship of the Ring",
+			overview:
+				"Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil master. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination.",
+			popularity: 78.0,
+			poster_path: "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+			release_date: "2001-12-18",
+			title: "The Lord of the Rings: The Fellowship of the Ring",
+			video: false,
+			vote_average: 8.8,
+			vote_count: 23456,
+		},
+		{
+			adult: false,
+			backdrop_path: "/5a4JdoFwll0DRtKMe7JLuGq9MJ8.jpg",
+			genre_ids: [18, 28, 80],
+			id: 550,
+			original_language: "en",
+			original_title: "Fight Club",
+			overview:
+				'A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until a senseless spiral toward oblivion.',
+			popularity: 75.0,
+			poster_path: "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+			release_date: "1999-10-15",
+			title: "Fight Club",
+			video: false,
+			vote_average: 8.8,
+			vote_count: 19876,
+		},
+		{
+			adult: false,
+			backdrop_path: "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+			genre_ids: [12, 14, 28],
+			id: 121,
+			original_language: "en",
+			original_title: "The Lord of the Rings: The Two Towers",
+			overview:
+				"Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+			popularity: 72.0,
+			poster_path: "/5VTN0pR8gcqV3EPUHHfMGnJYN3l.jpg",
+			release_date: "2002-12-18",
+			title: "The Lord of the Rings: The Two Towers",
+			video: false,
+			vote_average: 8.7,
+			vote_count: 20123,
+		},
+		{
+			adult: false,
+			backdrop_path: "/9n5e1vToDVnqz3hW10Jdlvmzpo0.jpg",
+			genre_ids: [18, 80],
+			id: 680,
+			original_language: "en",
+			original_title: "Pulp Fiction",
+			overview:
+				"A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, subversive comedy. Their adventures unfurl in three stories that ingeniously twist back and forth in time.",
+			popularity: 70.0,
+			poster_path: "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+			release_date: "1994-09-10",
+			title: "Pulp Fiction",
+			video: false,
+			vote_average: 8.9,
+			vote_count: 18765,
+		},
+		{
+			adult: false,
+			backdrop_path: "/suaEOtk1N1sgg2QM528GluxMcE.jpg",
+			genre_ids: [28, 12, 878],
+			id: 299536,
+			original_language: "en",
+			original_title: "Avengers: Infinity War",
+			overview:
+				"As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones.",
+			popularity: 68.0,
+			poster_path: "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+			release_date: "2018-04-25",
+			title: "Avengers: Infinity War",
+			video: false,
+			vote_average: 8.4,
+			vote_count: 15678,
+		},
+		{
+			adult: false,
+			backdrop_path: "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+			genre_ids: [28, 12, 878],
+			id: 299534,
+			original_language: "en",
+			original_title: "Avengers: Endgame",
+			overview:
+				"After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe.",
+			popularity: 65.0,
+			poster_path: "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+			release_date: "2019-04-26",
+			title: "Avengers: Endgame",
+			video: false,
+			vote_average: 8.3,
+			vote_count: 14321,
+		},
+		{
+			adult: false,
+			backdrop_path: "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+			genre_ids: [28, 12, 878],
+			id: 299537,
+			original_language: "en",
+			original_title: "Captain Marvel",
+			overview:
+				"The story follows Carol Danvers as she becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+			popularity: 62.0,
+			poster_path: "/AtsgWhDnPDqMkG91DvxQx55P7va.jpg",
+			release_date: "2019-03-06",
+			title: "Captain Marvel",
+			video: false,
+			vote_average: 6.9,
+			vote_count: 9876,
+		},
+		{
+			adult: false,
+			backdrop_path: "/5a4JdoFwll0DRtKMe7JLuGq9MJ8.jpg",
+			genre_ids: [28, 12, 878],
+			id: 299536,
+			original_language: "en",
+			original_title: "Black Panther",
+			overview:
+				"King T'Challa returns home to the isolated, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne from factions within his own country.",
+			popularity: 60.0,
+			poster_path: "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+			release_date: "2018-02-13",
+			title: "Black Panther",
+			video: false,
+			vote_average: 7.3,
+			vote_count: 12345,
+		},
+		{
+			adult: false,
+			backdrop_path: "/9n5e1vToDVnqz3hW10Jdlvmzpo0.jpg",
+			genre_ids: [28, 12, 878],
+			id: 219534,
+			original_language: "en",
+			original_title: "Spider-Man: Into the Spider-Verse",
+			overview:
+				'Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, another spider-man from another dimension, Peter Parker, accidentally winds up in Miles\' dimension.',
+			popularity: 58.0,
+			poster_path: "/iiZZdoQBEYBv6id8sWZ5RRfiBqr.jpg",
+			release_date: "2018-12-13",
+			title: "Spider-Man: Into the Spider-Verse",
+			video: false,
+			vote_average: 8.4,
+			vote_count: 8765,
+		},
+		{
+			adult: false,
+			backdrop_path: "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+			genre_ids: [28, 12, 878],
+			id: 295537,
+			original_language: "en",
+			original_title: "Joker",
+			overview:
+				"During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+			popularity: 55.0,
+			poster_path: "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+			release_date: "2019-10-02",
+			title: "Joker",
+			video: false,
+			vote_average: 8.4,
+			vote_count: 7654,
+		},
+		{
+			adult: false,
+			backdrop_path: "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+			genre_ids: [28, 12, 878],
+			id: 199534,
+			original_language: "en",
+			original_title: "The Dark Knight",
+			overview:
+				"Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+			popularity: 52.0,
+			poster_path: "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+			release_date: "2008-07-16",
+			title: "The Dark Knight",
+			video: false,
+			vote_average: 9.0,
+			vote_count: 23456,
+		},
+		{
+			adult: false,
+			backdrop_path: "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+			genre_ids: [28, 12, 878],
+			id: 299536,
+			original_language: "en",
+			original_title: "Inception",
+			overview:
+				"Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+			popularity: 50.0,
+			poster_path: "/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+			release_date: "2010-07-15",
+			title: "Inception",
+			video: false,
+			vote_average: 8.4,
+			vote_count: 18765,
+		},
+		{
+			adult: false,
+			backdrop_path: "/AtsgWhDnPDqMkG91DvxQx55P7va.jpg",
+			genre_ids: [28, 12, 878],
+			id: 29957,
+			original_language: "en",
+			original_title: "Interstellar",
+			overview:
+				"The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+			popularity: 48.0,
+			poster_path: "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+			release_date: "2014-11-05",
+			title: "Interstellar",
+			video: false,
+			vote_average: 8.6,
+			vote_count: 15678,
+		},
+		{
+			adult: false,
+			backdrop_path: "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+			genre_ids: [28, 12, 878],
+			id: 299534,
+			original_language: "en",
+			original_title: "The Matrix",
+			overview:
+				"Set in the 22nd century, The Matrix tells the story of a computer programmer who, by day, is a computer programmer and, by night, a hacker. The story follows the programmer's transformation from a computer programmer to a computer programmer.",
+			popularity: 45.0,
+			poster_path: "/f89U3ADr1oiB1v9GkK9yLmBbF18.jpg",
+			release_date: "1999-03-30",
+			title: "The Matrix",
+			video: false,
+			vote_average: 8.7,
+			vote_count: 23456,
+		},
 	],
 	total_pages: 500,
 	total_results: 10000,
@@ -94,24 +332,7 @@ export const discoverMovieResponseSample = {
 // レスポンスの型定義
 export interface DiscoverMovieResponse {
 	page: number;
-	results: MovieResult[];
+	results: Movie[];
 	total_pages: number;
 	total_results: number;
-}
-
-export interface MovieResult {
-	adult: boolean;
-	backdrop_path: string | null;
-	genre_ids: number[];
-	id: number;
-	original_language: string;
-	original_title: string;
-	overview: string;
-	popularity: number;
-	poster_path: string | null;
-	release_date: string;
-	title: string;
-	video: boolean;
-	vote_average: number;
-	vote_count: number;
 }
